@@ -1,12 +1,11 @@
-# FreshAI
-FreshAI is an AI-powered app designed to combat food waste by intelligently tracking kitchen inventory, predicting expiration dates, and suggesting recipes. Leveraging computer vision for food recognition and machine learning for personalized recommendations, it empowers households and businesses to adopt sustainable consumption habits.
-Here’s an enhanced, polished version of your README with expanded details, clearer structure, and actionable improvements:
-
----
-
 # **FreshAI: Reducing Food Waste Through Smart Inventory Management**  
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
 **GitHub Repo:** [FreshAI Project](https://github.com/starlinks123/FreshAI)  
+
+---
+
+## **Summary**
+FreshAI is an AI-powered app designed to combat food waste by intelligently tracking kitchen inventory, predicting expiration dates, and suggesting recipes. Leveraging computer vision for food recognition and machine learning for personalized recommendations, it empowers households and businesses to adopt sustainable consumption habits.
 
 ---
 
