@@ -196,8 +196,9 @@ if __name__ == '__main__':
 ```
 1. Install required packages:
 
-pip install pandas scikit-learn xgboost shap flask joblib 
-
+```python
+pip install pandas scikit-learn xgboost shap flask joblib
+ ```
 
 2. Prepare your dataset with additional columns:
 
@@ -209,13 +210,14 @@ spoiled (boolean flag)
 
 spoilage_rate
 
-Run the script and access the API:
+3. Run the script and access the API:
 
+```python
 curl -X POST http://localhost:5000/predict \
   -H "Content-Type: application/json" \
   -d '{"item_type": "dairy", "storage_temp": 4, "humidity": 65, "package_type": "vacuum_sealed"}'
+```
 
-  
 ---
 
 ## **Data Sources & AI Techniques**  
